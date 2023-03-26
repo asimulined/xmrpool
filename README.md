@@ -85,7 +85,7 @@ Install Golang and required packages:
 
 Clone stratum:
 
-    git clone https://github.com/MiningPool0826/xmrpool.git
+    git clone https://github.com/asimulined/xmrpool.git
     cd xmrpool
 
 Build stratum:
